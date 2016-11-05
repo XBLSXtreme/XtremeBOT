@@ -1,6 +1,6 @@
 echo "# XtremeBOT" >> README.md
 git init
 git add Hey everyone / Purchase XBLXtreme Time from Wolfie
-git commit -m "#1 Seller"
+git commit -m "first commit"
 git remote add origin https://github.com/XBLSXtreme/XtremeBOT.git
 git push -u origin master
